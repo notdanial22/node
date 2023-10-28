@@ -20,4 +20,4 @@ const lodash = require('lodash')
 
 const items = [1, [2, [3, 4, [5]]]]
 const newitems = lodash.flattenDeep(items)
-console.log(newitems)
+// console.log(newitems)
